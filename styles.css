@@ -1,0 +1,27 @@
+body{
+    background-color: #fdc67f ;
+}
+.container{
+    text-align: center;
+}
+.heading{
+    font-size: 7rem;
+    font-family: 'Lora', serif;
+    text-align: center;
+    margin: 0;
+    
+}
+
+.dice {
+    font-family:'ZCOOL KuaiLe', cursive;
+    font-size: 3rem;
+    margin:  2rem;
+    display: inline-block;
+}
+
+/* 
+#000000
+#323232
+#FF1E56
+#FFAC41 
+*/
